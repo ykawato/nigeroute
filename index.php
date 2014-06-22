@@ -9,7 +9,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-    <title>にげるーと - 湘南エリア情報局湘南エリア情報局</title>
+    <title>にげるーと</title>
 
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -499,11 +499,6 @@ google.maps.event.addDomListener(window, 'load', initialize);
     </script>
 
 
-<script type='text/javascript'>
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/shonan.livinglocal.jp\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"\u9001\u4fe1\u4e2d ..."};
-/* ]]> */
-</script>
 <script type='text/javascript' src='./assets/js/bootstrap.min.js'></script>
 
 
